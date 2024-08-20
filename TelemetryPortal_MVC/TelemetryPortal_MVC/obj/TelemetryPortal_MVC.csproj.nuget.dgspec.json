@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohla\\Downloads\\Option1_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj": {}
+    "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohla\\Downloads\\Option1_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj": {
+    "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohla\\Downloads\\Option1_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
         "projectName": "TelemetryPortal_MVC",
-        "projectPath": "C:\\Users\\mohla\\Downloads\\Option1_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
+        "projectPath": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
         "packagesPath": "C:\\Users\\mohla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohla\\Downloads\\Option1_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\obj\\",
+        "outputPath": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohla\\AppData\\Roaming\\NuGet\\NuGet.Config",

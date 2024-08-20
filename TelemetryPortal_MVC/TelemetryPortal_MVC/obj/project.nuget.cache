@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vdr/Eqs2UKI=",
+  "dgSpecHash": "Xu4Qpc3Vyn8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mohla\\Downloads\\Option1_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
+  "projectFilePath": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohla\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\mohla\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

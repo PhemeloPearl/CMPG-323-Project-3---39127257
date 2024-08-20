@@ -21,7 +21,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="repositories\" />
+    <EditorConfigFiles Remove="C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\repositories\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\repositories\.editorconfig" />
   </ItemGroup>
 
 </Project>

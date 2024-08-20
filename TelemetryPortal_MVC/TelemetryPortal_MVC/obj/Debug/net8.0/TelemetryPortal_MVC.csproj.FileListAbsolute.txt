@@ -533,3 +533,16 @@ C:\Users\mohla\Downloads\Option1_TelemetryPortal_MVC\TelemetryPortal_MVC\Telemet
 C:\Users\mohla\Downloads\Option1_TelemetryPortal_MVC\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.pdb
 C:\Users\mohla\Downloads\Option1_TelemetryPortal_MVC\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.genruntimeconfig.cache
 C:\Users\mohla\Downloads\Option1_TelemetryPortal_MVC\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\ref\TelemetryPortal_MVC.dll
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.csproj.AssemblyReference.cache
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.AssemblyInfoInputs.cache
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.AssemblyInfo.cs
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.csproj.CoreCompileInputs.cache
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.RazorAssemblyInfo.cache
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.RazorAssemblyInfo.cs
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.sourcelink.json
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.dll
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\refint\TelemetryPortal_MVC.dll
+C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.pdb
