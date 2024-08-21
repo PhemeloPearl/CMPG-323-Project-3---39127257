@@ -40,12 +40,17 @@ namespace TelemetryPortal_MVC.repositories
 
         public void Remove(P entity)
         {
-            throw new NotImplementedException();
+            _context.Set<P>().Remove(entity);
         }
 
         public void RemoveRange(IEnumerable<P> entities)
         {
-            throw new NotImplementedException();
+            _context.Set<P>().RemoveRange(entities);
+        }
+
+        public void SaveChanges()
+        {
+            _context.SaveChanges();
         }
     }
 }

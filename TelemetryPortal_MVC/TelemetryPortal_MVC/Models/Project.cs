@@ -23,4 +23,6 @@ public partial class Project
 
     [DisplayName("Client ID")]
     public Guid? ClientId { get; set; }
+
+    public DateTime CreatedDate { get; set; }
 }

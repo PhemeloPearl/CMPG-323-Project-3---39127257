@@ -13,18 +13,17 @@ namespace TelemetryPortal_MVC.Controllers
 {
     public class ClientsController : Controller
     {
-        private readonly TechtrendsContext _context;
+        private readonly IClientRepository _clientRepository;
 
-        public ClientsController(TechtrendsContext context)
+        public ClientsController(IClientRepository clientRepository)
         {
-            _context = context;
+            _clientRepository = clientRepository;
         }
 
         // GET: Clients
         public async Task<IActionResult> Index()
         {
-            ClientRepository clientRepository = new ClientRepository();
-            var results = clientRepository.GetAll();
+            var results = _clientRepository.GetAll();
             return View(results);
         }
 
@@ -36,7 +35,7 @@ namespace TelemetryPortal_MVC.Controllers
                 return NotFound();
             }
 
-            var client = await _context.Clients
+            var client = await _clientRepository.Clients
                 .FirstOrDefaultAsync(m => m.ClientId == id);
             if (client == null)
             {

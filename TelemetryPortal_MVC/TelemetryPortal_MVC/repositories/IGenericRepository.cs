@@ -20,6 +20,7 @@ namespace TelemetryPortal_MVC.repositories
         void Remove(P entity);
 
         void RemoveRange(IEnumerable<P> entities);
+        void SaveChanges();
 
     }
 }

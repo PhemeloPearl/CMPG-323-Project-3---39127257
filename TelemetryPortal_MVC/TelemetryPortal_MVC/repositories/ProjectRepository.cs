@@ -1,18 +1,21 @@
 ﻿using TelemetryPortal_MVC.Data;
 using TelemetryPortal_MVC.Models;
+using TelemetryPortal_MVC.repositories;
 using System.Linq;
 
 namespace TelemetryPortal_MVC.repositories
 {
     public class ProjectRepository : GenericRepository<Project>, IProjectRepository
     {
-        public ProjectRepository(TechtrendsContext context): base(context) 
+        public ProjectRepository(TechtrendsContext context) : base(context)
         {
-
         }
-        public Project GetMostRecentServices()
+
+        // Implement the method as defined in the interface
+        public Project GetMostRecentProject()
         {
             return _context.Projects.OrderByDescending(project => project.CreatedDate).FirstOrDefault();
         }
     }
 }
+
