@@ -6,6 +6,8 @@ namespace TelemetryPortal_MVC.Models;
 
 public partial class Project
 {
+    internal readonly Guid Id;
+
     [DisplayName("Project ID")]
     public Guid ProjectId { get; set; }
 
@@ -24,5 +26,5 @@ public partial class Project
     [DisplayName("Client ID")]
     public Guid? ClientId { get; set; }
 
-    public DateTime CreatedDate { get; set; }
+  //  public DateTime CreatedDate { get; set; }
 }

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +35,32 @@
       "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\mohla\\desktop\\cmpg-323-project-3---39127257\\telemetryportal_mvc\\telemetryportal_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,59 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\IClientRepository.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\repositories\\IClientRepository.cs",
-              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\IClientRepository.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\repositories\\IClientRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T18:36:59.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\appsettings.json",
-              "RelativeToolTip": "TelemetryPortal_MVC\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-17T13:17:15.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\GenericRepository.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\repositories\\GenericRepository.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAACkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T13:03:01.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\IGenericRepository.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\repositories\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T12:43:18.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "IProjectRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\IProjectRepository.cs",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\repositories\\IProjectRepository.cs",
@@ -164,40 +116,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAwAAAA",
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\repositories\\ProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T12:37:10.67Z",
+              "WhenOpened": "2024-08-20T10:26:17.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:43:18.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\IClientRepository.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\repositories\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:36:59.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\GenericRepository.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:03:01.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ClientRepository.cs",
               "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\ClientRepository.cs",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\repositories\\ClientRepository.cs",
               "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\ClientRepository.cs",
               "RelativeToolTip": "TelemetryPortal_MVC\\repositories\\ClientRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T08:40:13.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\ProjectRepository.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\repositories\\ProjectRepository.cs",
-              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\repositories\\ProjectRepository.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\repositories\\ProjectRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Models\\Project.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Models\\Project.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T10:26:17.034Z",
+              "WhenOpened": "2024-08-17T11:04:15.821Z",
               "EditorCaption": ""
             },
             {
@@ -208,14 +199,78 @@
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Program.cs",
               "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Program.cs",
               "RelativeToolTip": "TelemetryPortal_MVC\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T18:30:23.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Models\\Client.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:04:15.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:28:40.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:30:56.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAiwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:37:10.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\appsettings.json",
+              "RelativeToolTip": "TelemetryPortal_MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T13:17:15.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\appsettings.Development.json",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\appsettings.Development.json",
@@ -227,31 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProjectsController.cs",
-              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
-              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T12:28:40.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Models\\Project.cs",
-              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Models\\Project.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\Models\\Project.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T11:04:15.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Views\\Home\\Index.cshtml",
@@ -263,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Views\\Shared\\_Layout.cshtml",
@@ -275,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Views\\Projects\\Index.cshtml",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Views\\Projects\\Index.cshtml",
@@ -287,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Views\\Clients\\Index.cshtml",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Views\\Clients\\Index.cshtml",
@@ -296,18 +327,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-17T11:04:15.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\mohla\\Desktop\\CMPG-323-Project-3---39127257\\TelemetryPortal_MVC\\TelemetryPortal_MVC\\Models\\Client.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\Models\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T11:04:15.817Z"
             }
           ]
         }

@@ -7,7 +7,7 @@ namespace TelemetryPortal_MVC.repositories
 {
     public interface IGenericRepository<P> where P : class
     {
-        P GetByID(int id);
+        P GetByID(Guid id);
 
         IEnumerable<P> GetAll();
 

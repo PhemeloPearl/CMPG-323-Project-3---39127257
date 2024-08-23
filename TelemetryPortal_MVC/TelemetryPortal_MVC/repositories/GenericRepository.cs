@@ -33,7 +33,7 @@ namespace TelemetryPortal_MVC.repositories
             return _context.Set<P>().ToList();
         }
 
-        public P GetByID(int id)
+        public P GetByID(Guid id)
         {
             return _context.Set<P>().Find(id);
         }

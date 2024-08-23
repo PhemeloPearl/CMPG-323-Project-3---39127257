@@ -14,7 +14,12 @@ namespace TelemetryPortal_MVC.repositories
         // Implement the method as defined in the interface
         public Project GetMostRecentProject()
         {
-            return _context.Projects.OrderByDescending(project => project.CreatedDate).FirstOrDefault();
+            return _context.Projects.OrderByDescending(project => project.ProjectCreationDate).FirstOrDefault();
+        }
+
+        public Project GetProjectById(Guid id)
+        {
+            return _context.Projects.FirstOrDefault(p => p.Id == id);
         }
     }
 }

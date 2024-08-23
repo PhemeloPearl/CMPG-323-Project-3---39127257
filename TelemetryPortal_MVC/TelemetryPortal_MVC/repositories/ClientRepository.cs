@@ -5,13 +5,23 @@ using System.Linq;
 
 namespace TelemetryPortal_MVC.repositories
 {
-    public class ClientRepository
+    public class ClientRepository : GenericRepository<Client>, IClientRepository
     {
-        protected readonly TechtrendsContext _context = new TechtrendsContext();
-
-        public IEnumerable<Client> GetAll()
+        public ClientRepository(TechtrendsContext context) : base(context)
         {
-            return _context.Clients.ToList();
+        }
+
+        public Client GetMostRecentClient()
+        {
+            return _context.Clients
+                .OrderByDescending(c => c.DateOnboarded)
+                .FirstOrDefault();
+        }
+
+        // Additional methods specific to ClientRepository
+        public Client GetClientById(Guid id)
+        {
+            return _context.Clients.FirstOrDefault(c => c.ClientId == id);
         }
     }
 }
