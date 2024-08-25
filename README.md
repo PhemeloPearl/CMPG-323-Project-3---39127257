@@ -24,6 +24,20 @@ The project welcomes community contributions through:
 2. Creating a new branch
 3. Making changes
 4. Committing and pushing changes
-5. Opening a Pull Request
+
+
+Accessing the site: 
+      https://serviceapi-39127257-dzgqbud0fge7gufm.southafricanorth-01.azurewebsites.net
+
 
 Overall, the project aims to enhance the web application's functionality, performance, and security while following best practices in software development.
+
+References
+
+    Stack Overflow (2022). LINQ Query and NullReferenceException in Entity Framework. Available at: https://stackoverflow.com/questions/XXXXX (Accessed: 20 August 2024)
+
+    Microsoft (2023). Working with DbContext in Entity Framework Core. Available at: https://learn.microsoft.com/en-us/ef/core/dbcontext-configuration/ (Accessed: 20 August 2024).
+
+    Stack Overflow, 2020. How to Convert int to Guid in C#?. [online] Available at: https://stackoverflow.com/questions/14977916/how-to-convert-int-to-guid-in-c-sharp [Accessed 23 August 2024].
+
+    Microsoft, 2023. Guid Struct. [online] Available at: https://learn.microsoft.com/en-us/dotnet/api/system.guid?view=net-7.0 [Accessed 23 August 2024].
