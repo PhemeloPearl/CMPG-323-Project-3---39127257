@@ -13,21 +13,27 @@ This README file outlines a project to enhance and improve an existing web appli
 
 The project will follow:
 
-   1. SOLID principles for modular, maintainable, and scalable code
-   2. MVC pattern for separation of concerns
-   3. Design patterns like Singleton, Factory, and Observer
+    SOLID principles for modular, maintainable, and scalable code
+    
+    MVC pattern for separation of concerns
+    
+    Design patterns like Singleton, Factory, and Observer
 
 Testing will be done using:
 
-   1. Unit and integration tests with Jest/Mocha/Chai
-   2. Selenium/Cypress for end-to-end testing
+    Unit and integration tests
+    
+    Selenium/Cypress for end-to-end testing
 
 The project welcomes community contributions through:
 
-   1. Forking the repository
-   2. Creating a new branch
-   3. Making changes
-   4. Committing and pushing changes
+    Forking the repository
+    
+    Creating a new branch
+    
+    Making changes
+    
+    Committing and pushing changes
 
 
 Accessing the site: 
