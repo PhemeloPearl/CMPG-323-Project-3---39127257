@@ -12,5 +12,6 @@
     <WebStackScaffolding_DbContextTypeFullName>TelemetryPortal_MVC.Data.TechtrendsContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\mohla\Desktop\CMPG-323-Project-3---39127257\TelemetryPortal_MVC\TelemetryPortal_MVC\Properties\PublishProfiles\serviceAPI-39127257 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

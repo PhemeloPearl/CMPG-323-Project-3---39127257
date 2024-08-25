@@ -6,8 +6,10 @@ using Microsoft.EntityFrameworkCore;
 using TelemetryPortal_MVC.Models;
 using TelemetryPortal_MVC.repositories;
 
+
 namespace TelemetryPortal_MVC.Controllers
 {
+  
     public class ClientsController : Controller
     {
         private readonly IClientRepository _clientRepository;
@@ -50,7 +52,8 @@ namespace TelemetryPortal_MVC.Controllers
         // POST: Clients/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ClientId,ClientName,PrimaryContactEmail,DateOnboarded")] Client client)
+
+        public IActionResult Create([Bind("ClientId,ClientName,PrimaryContactEmail,DateOnboarded")] Client client)
         {
             if (ModelState.IsValid)
             {
@@ -81,7 +84,7 @@ namespace TelemetryPortal_MVC.Controllers
         // POST: Clients/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("ClientId,ClientName,PrimaryContactEmail,DateOnboarded")] Client client)
+        public IActionResult Edit(Guid id, [Bind("ClientId,ClientName,PrimaryContactEmail,DateOnboarded")] Client client)
         {
             if (id != client.ClientId)
             {
@@ -130,7 +133,7 @@ namespace TelemetryPortal_MVC.Controllers
         // POST: Clients/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(Guid id)
+        public IActionResult DeleteConfirmed(Guid id)
         {
             var client = _clientRepository.GetByID(id);
             if (client != null)

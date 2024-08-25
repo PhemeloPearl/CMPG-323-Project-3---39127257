@@ -35,7 +35,9 @@ namespace TelemetryPortal_MVC.repositories
 
         public P GetByID(Guid id)
         {
+#pragma warning disable CS8603 // Possible null reference return.
             return _context.Set<P>().Find(id);
+#pragma warning restore CS8603 // Possible null reference return.
         }
 
         public void Remove(P entity)

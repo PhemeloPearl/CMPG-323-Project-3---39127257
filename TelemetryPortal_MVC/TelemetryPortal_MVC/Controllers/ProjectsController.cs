@@ -7,8 +7,10 @@ using Microsoft.EntityFrameworkCore;
 using TelemetryPortal_MVC.Models;
 using TelemetryPortal_MVC.repositories;
 
+
 namespace TelemetryPortal_MVC.Controllers
 {
+    
     public class ProjectsController : Controller
     {
         private readonly IProjectRepository _projectRepository;
@@ -51,7 +53,7 @@ namespace TelemetryPortal_MVC.Controllers
         // POST: Projects/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ProjectId,ProjectName,ProjectDescription,ProjectCreationDate,ProjectStatus,ClientId")] Project project)
+        public IActionResult Create([Bind("ProjectId,ProjectName,ProjectDescription,ProjectCreationDate,ProjectStatus,ClientId")] Project project)
         {
             if (ModelState.IsValid)
             {
@@ -82,7 +84,7 @@ namespace TelemetryPortal_MVC.Controllers
         // POST: Projects/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("ProjectId,ProjectName,ProjectDescription,ProjectCreationDate,ProjectStatus,ClientId")] Project project)
+        public IActionResult Edit(Guid id, [Bind("ProjectId,ProjectName,ProjectDescription,ProjectCreationDate,ProjectStatus,ClientId")] Project project)
         {
             if (id != project.ProjectId)
             {
@@ -131,7 +133,7 @@ namespace TelemetryPortal_MVC.Controllers
         // POST: Projects/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(Guid id)
+        public IActionResult DeleteConfirmed(Guid id)
         {
             var project = _projectRepository.GetByID(id);
             if (project != null)
