@@ -1,11 +1,15 @@
 # CMPG-323-Project-3---39127257
 This README file outlines a project to enhance and improve an existing web application that manages project and client data. The project aims to:
 
-   1. Improve the user interface for better user experience
-   2. Optimize API endpoints for enhanced performance
-   3. Add new features like advanced search and data export
-   4. Address security vulnerabilities and implement best practices
-   5. Refactor existing code to align with modern coding standards
+    Improve the user interface for better user experience
+      
+    Optimize API endpoints for enhanced performance
+      
+    Add new features like advanced search and data export
+      
+    Address security vulnerabilities and implement best practices
+      
+    Refactor existing code to align with modern coding standards
 
 The project will follow:
 
